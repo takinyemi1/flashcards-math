@@ -38,8 +38,7 @@ Here's a walkthrough of implemented required features:
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW05ZW9lc2tkeXh2NHF2YTJ2N2txcTl5djhxMWs2ZDRnNHZtN3B1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TAikUfzqED7RN86iC4/giphy.gif">via GIPHY</a></p> title='Math Flashcards' width='' alt='Math Flashcards' />
 
-
-<p><a href="https://giphy.com/gifs/TAikUfzqED7RN86iC4">via GIPHY</a></p>
+<a href="https://giphy.com/gifs/TAikUfzqED7RN86iC4">via GIPHY</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with <a href='https://www.cockos.com/licecap/'>LICEcap</a>.   
